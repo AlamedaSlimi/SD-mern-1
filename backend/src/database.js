@@ -7,6 +7,5 @@ mongoose.connect(uri).then(db => console.log('db is conected')).catch(err => con
 
 module.exports = mongoose;
 
-
-//quinonezcesar
-//vrZtCSbhMbTGV6gH
+//samuel
+//ChB4t2o8U4EjvgJY
